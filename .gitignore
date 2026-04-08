@@ -1,0 +1,4 @@
+node_modules/
+.env
+
+#Oculta as informações contidas nesse arquivo
